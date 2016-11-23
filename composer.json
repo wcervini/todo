@@ -5,7 +5,7 @@
     "keywords": ["Demo","Todo"],
     "autoload":{
         "psr-4":{
-            "Demo\\Todo\\":"src/",
+            "Demo\\Todo\\" : "src/",
         }
     },
     "require":{
