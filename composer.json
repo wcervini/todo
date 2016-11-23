@@ -1,7 +1,6 @@
 {
     "name": "Demo/Todo",
     "description": "Descripcion de Prueba",
-    "require":{},
     "keywords": ["Demo","Todo"],
     "autoload":{
         "psr-4":{
