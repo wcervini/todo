@@ -4,11 +4,11 @@
     "keywords": ["Demo","Todo"],
     "autoload":{
         "psr-4":{
-            "Demo\\Todo\\" : "src/",
+            "Demo\\Todo\\" : "src/"
         }
     },
-    "require":{
-        "illuminate/support":"~5"
+    "require": {
+        "php": ">=5.6.4",
+        "laravel/framework": "5.3.*"
     }
-
 }
