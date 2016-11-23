@@ -3,7 +3,6 @@
     "description": "Descripcion de Prueba",
     "require":{},
     "keywords": ["Demo","Todo"],
-    "require":{},
     "autoload":{
         "psr-4":{
             "Demo\\Todo\\":"src/",
